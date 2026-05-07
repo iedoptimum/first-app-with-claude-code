@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--color-muted);
+}
+
+.icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.35rem;
+  color: var(--color-text);
+}
+
+.sub {
+  font-size: 0.9rem;
+  margin: 0;
+}
